@@ -1,1 +1,35 @@
-# MachineLearningAlgorithms
+# Machine Learning Algorithms
+
+- [Artificial neural network](https://en.wikipedia.org/wiki/Artificial_neural_network)
+  - [Machine Learning Explained](https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained)
+  - [Machine Learning, Algorithm overview](https://medium.com/ml-research-lab/machine-learning-algorithm-overview-5816a2e6303)
+  - [Introducing to Machine Learning Algorithms](https://www.mastersindatascience.org/learning/machine-learning-algorithms/)
+- [Support vector machine](https://en.wikipedia.org/wiki/Support_vector_machine)
+  - [Machine Learning Algorithms - an overview](https://www.sciencedirect.com/topics/engineering/machine-learning-algorithm)
+  - [Top 10 Machine Learning for Beginners](https://builtin.com/data-science/tour-top-10-algorithms-machine-learning-newbies)
+  - [Classification in Machine Learning](https://www.datacamp.com/blog/classification-machine-learning)
+- [Decision-making](https://en.wikipedia.org/wiki/Decision-making)
+  - [Learning Resource #1](https://www.simplilearn.com/10-algorithms-machine-learning-engineers-need-to-know-article)
+  - [Learning Resource #2](https://www.spiceworks.com/tech/artificial-intelligence/articles/top-ml-algorithms/)
+  - [Learning Resource #3](https://en.wikipedia.org/wiki/Machine_learning)
+- Linear regression
+- Logistic regression
+- Random forest
+- Naive Bayes classifier
+- K-means clustering
+- K-nearest neighbors algorithm
+- Regression analysis
+- Cluster analysis
+- Vector
+- Hierarchical clustering
+- Mathematical optimization
+- Logistics
+- XGBoost
+- Linear discriminant analysis
+- Convolutional neural network
+- Unsupervised learning
+- AdaBoost
+- Gradient boosting
+- Boosting
+- Normal distribution
+- Stochastic gradient descent
